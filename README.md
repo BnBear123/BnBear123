@@ -35,3 +35,8 @@ I utilize Python in various fields such as data analysis, machine learning, LLM,
 <img src="https://img.shields.io/badge/Notion-000000.svg?style=flat&logo=Notion&logoColor=white" />
 <img src="https://img.shields.io/badge/Codecademy-FFF0E5.svg?style=flat&logo=codecademy&logoColor=303347">
 </div>
+<br>
+<br>
+<div class="count-hit" align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBnBear123%2Fhit-counter&count_bg=%23FFC20E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
