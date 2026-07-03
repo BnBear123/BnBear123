@@ -1,7 +1,7 @@
 ## Hi there 👋 I’m Chloe!
 I utilize Python in various fields such as data analysis, machine learning, LLM, and Flask. <br>I always aim to write efficient and readable code. <br>I enjoy contributing to open source projects and learning new technologies. <br>Let's create amazing projects together!
 <br>
-
+<br>
 <div class="python-skills" align="center">
 <img src="https://img.shields.io/badge/Python-3766AB.svg?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458.svg?style=flat&logo=Pandas&logoColor=white"/>
@@ -38,5 +38,5 @@ I utilize Python in various fields such as data analysis, machine learning, LLM,
 <br>
 <br>
 <div class="count-hit" align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBnBear123%2Fhit-counter&count_bg=%23FFC20E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<img src="https://hitcount.dev/p/BnBear123/mini_project_202606.svg" alt="Hit Counter">
 </div>
